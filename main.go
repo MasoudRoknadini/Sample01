@@ -7,5 +7,4 @@ func main() {
 	var x = 5
 	y := 3
 	fmt.Println(x * y)
-	fmt.Println(x/y)
 }
